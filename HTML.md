@@ -1,31 +1,35 @@
 # HTML
 
+
 • HTML significa Hyper Text Markup Language (Linguagem de Marcação de Hipertexto)
 
 • Um arquivo HTML é um arquivo de texto contendo etiquetas de marcação (markup tags)
 
 • As marcações dizem para o navegador Web como mostrar a página
 
-• Pode ser criado usando um simples editor de textos
-
+```bash
 # Tags
 
 <html>
-<head>
-<title>Título da página</title>
-</head>
-<body>
-Esta é minha primeira página. <b>Este texto está em negrito</b>
-</body>
+
+  <head>
+    <title>Título da página</title>
+  </head>
+
+  <body>
+    <p>Esta é minha primeira página.</p>
+    <b>Este texto está em negrito</b>
+  </body>
 </html>
 
-<!-- Para o <body> -->
-<br> <h1>Este é um título</h1>
+<br> //Quebra de linha
+
+<h1>Este é um título</h1>
 
 <p>Este é um parágrafo</p>
 
 <p>
-Este <br> é um parágrafo com<br> quebras de linha
+Este <br> é um parágrafo com <br> quebra de linha
 </p>
 
 <strong>
@@ -56,15 +60,15 @@ Define um cmd
 
 # Ancoras
 
-<!-- A HTML usa a tag <a> (âncora) para criar um vínculo (link) -->
+<!-- O HTML usa a tag <a> (âncora) para criar um vínculo (link) -->
 
 <!-- Link com um site -->
 <a href="https://github.com/pedroliveirahm">Git Hub
 </a>
 
-<!-- target="_blank" abre em outra página web -->
-<a href="http://www.w3schools.com/"
-target="_blank">Visite as W3Schools!</a>
+<!-- target="_blank" abre em outra aba do browser -->
+<a href="https://github.com/pedroliveirahm"
+target="_blank">Visite meu perfil!</a>
 
 <!-- Link com um especificação da aba -->
 <a href="#dicas">Dicas</a>
@@ -80,28 +84,29 @@ target="_blank">Visite as W3Schools!</a>
    <frame src="frame_b.htm">
 </frameset>
 
-# Listas não Ordenadas
-<!-- Unorded List <ul> -->
+# Listas não Ordenadas (Unorderd List)
 <html>
-<body>
 
-<h4>Uma Lista Não Ordenada:</h4>
-<ul>
-  <li>Café</li>
-  <li>Chá</li>
-  <li>Leite</li>
-</ul>
+  <body>
+    <ul>  
+      
+      <li>Café</li>
+      <li>Chá</li>
+      <li>Leite</li>
+  
+  </ul>
+  </body>
 
-</body>
 </html>
 
-<!-- Orded List <ol> -->
+# Lista Ordenada (Orded List)
+
 <ol>
-<li>Café</li>
-<li>Leite</li>
+  <li>Café</li>
+  <li>Leite</li>
 </ol>
 
-# Formulários
+# Formulários <form>
 <!--  Campo de texto type="text" -->
 
 <form>
@@ -173,3 +178,5 @@ document.write("Oi Mundo!")
 </body>
 
 </html>
+
+```
