@@ -9,7 +9,7 @@
 -> Parte visual da aplicação, interface que entra em contato com o usuário
 
 * Preocupada com a estética e com a experiência do usuário (UX)
-* Cuidadosa com a resolução de diferentes dispositivos
+* Cuidadosa com a resolução de diferentes dispositivos (Responsividade)
 * Linguaguem Client-Side: *quem lê a linguaguem é o próprio browser (navegador)
 * * HTML |  CSS | JAVASCRIPT
 

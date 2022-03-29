@@ -145,8 +145,11 @@ Eu tenho um carro
 
 <img src="">
 
-<!-- O valor do atributo alt é um texto definido pelo autor  -->
-<!-- O atributo "alt" diz ao leitor o que ele ou ela está perdendo numa página se o navegador não pode carregar imagens. O navagador irá então exibir o texto alternativo em vez da imagem. -->
+O valor do atributo alt é um texto definido pelo autor
+
+O atributo "alt" diz ao leitor o que está perdendo numa página se o navegador não pode carregar imagens 
+
+O navegador irá então exibir o texto alternativo em vez da imagem.
 
 <img src="https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/08/O-que-e-url.png" alt="Hostinger img">
 
