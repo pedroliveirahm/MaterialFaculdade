@@ -1,4 +1,4 @@
- <h5>SUMÁRIO</h5>
+ <h4>SUMÁRIO</h4>
  • <a href="#portugol-visualg">Portugol</a><br>
  • <a href="#python">Python</a>
  

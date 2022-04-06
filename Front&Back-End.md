@@ -1,4 +1,4 @@
-<h4>Lados do desenvolvimento web</h1>
+<h4>Lados do desenvolvimento web</h4>
 
 * [Back-End](#back-end)
 * [Front-End](#front-end)
@@ -10,8 +10,8 @@
 
 * Preocupada com a estética e com a experiência do usuário (UX)
 * Cuidadosa com a resolução de diferentes dispositivos (Responsividade)
-* Linguaguem Client-Side: *quem lê a linguaguem é o próprio browser (navegador)
-* * HTML |  CSS | JAVASCRIPT
+* Linguaguem Client-Side: Quem lê a linguaguem é o próprio browser (navegador)
+    * HTML |  CSS | JAVASCRIPT
 
 # Front-End
 
