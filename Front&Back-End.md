@@ -17,9 +17,31 @@
 
 -> Linguaguem do backstage (bastidores)
 
-* Ponte de conexão entre o Back-End e o Banco de Dados
+* Ponte de conexão (intermédio) entre o Servidor e o Banco de Dados
 * Garante as regras do negócio e a segurança das informações
 
+## Servidor
+* Considerado centralizado
+    * Os arquivos do site, o back-end e os dados são armazenados no servidor 
+* Linguagens: 
+    * PHP, Java, Ruby, Python, C#
+    * Node.js é um ambiente de execução de código JS no servidor.
+### Arquitetura Serveless 
+* Tipo mais descentralizada de aplicação
+    * Divide os componentes e aproveita empresas terceirazadas para lidar com cada um deles (arquivos,back-end e dados)
+* Provedores serveless: AWS, Netlify
+* Aplicações serveless são : rápidas, baratas, simples
+* Aconselhável para sites estáticos simples
+* Para apps mais elaborados se recomenda a confiração de servidor normal
+
+## Banco de dados
+* Lugar onde se armazena informações no servidor que será usada na aplicação
+Linguagens: SQL
+
+### Bancos de dados relacionais
+
+### Bancos de dados não relacionais
+* MongoDB
 # Full-Stack
 
 -> Desenvolve tanto na parte do Back-End quanto na do Front-End
