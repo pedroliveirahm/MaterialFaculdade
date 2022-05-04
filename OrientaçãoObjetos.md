@@ -1,6 +1,7 @@
 # Classe
 * Uma classe é um elemento do código Java que é utilizada para `representar` objetos do mundo real.
-* Dentro dela é declarado atributos e métodos, que representram,respectivamente, as características e comportamentos do objeto.
+* Dentro dela é declarado atributos e métodos, que representram, respectivamente, as características e comportamentos do objeto.
+* Um objeto nada mais é que uma variável do tipo classe
 
 ## Sintaxe
 * Palavra reservada `class` seguida pelo nome da classe.
@@ -20,7 +21,7 @@ public class Produto {
   private String nome; //atributo1
   private int quantidade; //atributo2
 
-  public Produto() {
+  public Produto() { // Método construtor
     // Construtores
   }
 
@@ -38,7 +39,10 @@ public class Produto {
 ```bash
 Produto produtoUm;
 produtoUm = new Produto();
+# instanciação de um objeto
+
 produtoUm.apresentarProduto();
+# chamada de um método
 ```
 * A segunda linha deste código representa o processo de instanciação de uma classe. 
 
@@ -60,3 +64,6 @@ public class MinhaClasse extends ClasseQualquer {
 
 }
 ```
+---
+Made with by 💙 Pedro PC 👋 <a href="https://github.com/pedroliveirahm">Seen my GitHub</a>
+* <strong>Fale comigo : <a href="https://bio.link/pedroliveirahm" target="_blank">Contato</a></strong>

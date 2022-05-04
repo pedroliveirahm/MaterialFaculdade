@@ -54,6 +54,7 @@
 
 ## Método 
 * Similar a uma função procedural.
+    * Tudo que está dentro do método será executado de forma sequêncial
 
 * È a lógica contida em uma classe para atribuir comportamentos (sequência de comandos), identificada por um nome.
 * O ato de invocar (chamar) um método é a passagem de mensagens para o objeto.
@@ -80,10 +81,8 @@
         * altura
         * peso
         * nome
-    
-    *
 
-
-
-
-
+    * 
+---
+Made with by 💙 Pedro PC 👋 <a href="https://github.com/pedroliveirahm">Seen my GitHub</a>
+* <strong>Fale comigo : <a href="https://bio.link/pedroliveirahm" target="_blank">Contato</a></strong>

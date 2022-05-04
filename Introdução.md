@@ -55,9 +55,9 @@
  - DENTRO DA P.O.O (PROGROGRAMAÇÃO ORIENTADA A OBJETOS), CONCEITOS COMO INTERFACES E CLASSES QUE ESCONDEM ALGO
 
 # O QUE UM PROGRAMADOR JR DEVE SABER
- •FUNDAMENTOS DAS LINGUAGUENS
- - FUNÇÕES
- - VARIÁVEIS
+• FUNDAMENTOS DAS LINGUAGUENS
+- FUNÇÕES
+- VARIÁVEIS
 * COLEÇÕES
 * CONTROLE DE FLUXO
 * CLASSES
@@ -79,6 +79,7 @@
 
  ---
 Made with by 💙 Pedro PC 👋 <a href="https://github.com/pedroliveirahm">Seen my GitHub</a>
+* <strong>Fale comigo : <a href="https://bio.link/pedroliveirahm" target="_blank">Contato</a></strong>
 
 
-- [X] Material de estudo da faculdade
+- [X] Material de estudo !

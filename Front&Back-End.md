@@ -45,3 +45,7 @@ Linguagens: SQL
 # Full-Stack
 
 -> Desenvolve tanto na parte do Back-End quanto na do Front-End
+
+---
+Made with by 💙 Pedro PC 👋 <a href="https://github.com/pedroliveirahm">Seen my GitHub</a>
+* <strong>Fale comigo : <a href="https://bio.link/pedroliveirahm" target="_blank">Contato</a></strong>

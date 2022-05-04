@@ -1,6 +1,27 @@
-• Sniffer (farejador, em tradução livre)
-* Software ou Hardware que permite ao usuário monitorar o tráfego de dados na internet em tempo real
+# Arquitetura de Computadores
+* 
+# Arquitetura em Camadas
+* Camada OSI : Proporciona um modo estruturado de se organizar a Internet
+    * Aplicação
+    * ...
+* Camada TCP-Ip
+    * Aplicação
+    * ...
 
+# Ethernet
+* È uma arquitetura de interconexão cabeada para redes locais
+* A tecnologia executa as funções definidas nas camadas 1 e 2 da arquitetura TCP/IP.
+
+# Tipos de Redes
+* Sufixo `AN` - Àrea Network
+* `PAN` - Rede de área pessoal : usada para que dispositivos se comuniquem dentro de uma distância bem limitada
+* `LAN` - Rede local : interligam computadores dentro de um mesmo espaço físico
+* `MAN` - Rede metropolitana : muito utilizado por empresas que possuem dois escritórios dentro de uma mesma cidade e desejam que os computadores permaneçam interligados
+* `WAN` - Rede de longa distância (países e continentes)
+* `WLAN` - Rede local sem fio
+* `WMAN` - Rede metropolitana s/ fio
+* `WWAN` - Rede de longa distância s/ fio
+* `SAN` - Rede de área de armazenamento
 # Protocolos - Conceitos
 • Quando você usa a Internet, está usando uma variedade de protocolos diferentes. Para navegar, você usa HTTP. Para enviar e receber mensagens instantâneas, você usa XMPP.
 
@@ -63,3 +84,7 @@ https (protocolo) -> www (web) -> github.com (dominio)
 • TCP ou UDP - Realiza o transporte de pacote de uma máquina a outra
 * TCP: Realiza o transporte com a entrega garantida
 * UDP: Realiza transporte de pacote sem garantia, tem maior velocidade
+
+---
+Made with by 💙 Pedro PC 👋 <a href="https://github.com/pedroliveirahm">Seen my GitHub</a>
+* <strong>Fale comigo : <a href="https://bio.link/pedroliveirahm" target="_blank">Contato</a></strong>
