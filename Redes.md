@@ -1,17 +1,5 @@
-# Arquitetura de Computadores
+# O que é uma rede
 * 
-# Arquitetura em Camadas
-* Camada OSI : Proporciona um modo estruturado de se organizar a Internet
-    * Aplicação
-    * ...
-* Camada TCP-Ip
-    * Aplicação
-    * ...
-
-# Ethernet
-* È uma arquitetura de interconexão cabeada para redes locais
-* A tecnologia executa as funções definidas nas camadas 1 e 2 da arquitetura TCP/IP.
-
 # Tipos de Redes
 * Sufixo `AN` - Àrea Network
 * `PAN` - Rede de área pessoal : usada para que dispositivos se comuniquem dentro de uma distância bem limitada
@@ -22,7 +10,18 @@
 * `WMAN` - Rede metropolitana s/ fio
 * `WWAN` - Rede de longa distância s/ fio
 * `SAN` - Rede de área de armazenamento
-# Protocolos - Conceitos
+# Ethernet
+* È uma arquitetura de interconexão cabeada para redes locais
+* A tecnologia executa as funções definidas nas camadas 1 e 2 da arquitetura TCP/IP.
+
+# Arquitetura em Camadas
+* Camada OSI : Proporciona um modo estruturado de se organizar a Internet
+    * Aplicação
+    * ...
+* Camada TCP-IP
+    * Aplicação
+    * ...
+# Protocolos TCP-IP 
 • Quando você usa a Internet, está usando uma variedade de protocolos diferentes. Para navegar, você usa HTTP. Para enviar e receber mensagens instantâneas, você usa XMPP.
 
 • TCP / IP - Nome da família de protocolos
@@ -31,7 +30,7 @@
 
 • Firewall - Mecanismo de segurança que controla o que entra e o que sai
 
-# Camada de Aplicação
+# Camada de Aplicação TCP-IP
 
 • Possuem um número (porta)
 
@@ -74,7 +73,7 @@ https (protocolo) -> www (web) -> github.com (dominio)
 
 * Nós entendemos nomes, e a máquina, números
 
-# Camada de Transporte
+# Camada de Transporte TCP-IP
 
 • DHCP - Também chamado de servidor DHCP
 * Responsável pela distribuição dinânima do endereço IP, Máscara de sub-rede e o Gateway padrão
