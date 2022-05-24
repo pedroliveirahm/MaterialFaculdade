@@ -12,15 +12,23 @@
 * `SAN` - Rede de área de armazenamento
 # Ethernet
 * È uma arquitetura de interconexão cabeada para redes locais
-* A tecnologia executa as funções definidas nas camadas 1 e 2 da arquitetura TCP/IP.
+* A tecnologia executa as funções definidas nas camadas 1 (aplicação) e 2 (transporte) da arquitetura TCP/IP.
 
-# Arquitetura em Camadas
+# Camadas de Rede
 * Camada OSI : Proporciona um modo estruturado de se organizar a Internet
     * Aplicação
-    * ...
+    * Apresentação
+    * Sessão
+    * Transporte
+    * Rede
+    * Enlace de dados
+    * Física
+    
 * Camada TCP-IP
     * Aplicação
-    * ...
+    * Transporte
+    * Rede
+    * Acesso á rede
 # Protocolos TCP-IP 
 • Quando você usa a Internet, está usando uma variedade de protocolos diferentes. Para navegar, você usa HTTP. Para enviar e receber mensagens instantâneas, você usa XMPP.
 
@@ -70,9 +78,7 @@ https (protocolo) -> www (web) -> github.com (dominio)
 * IPV4 é o endereço padrão de uma máquina na rede (semelhante a um CPF), sendo o V4 a versão atual
 
 * IPV6, após os esgotamento dos IPV4, veio o IPV6, usando o sistema HEXADECIMAL 
-
-* Nós entendemos nomes, e a máquina, números
-
+    * Nós entendemos nomes, e a máquina, números
 # Camada de Transporte TCP-IP
 
 • DHCP - Também chamado de servidor DHCP
