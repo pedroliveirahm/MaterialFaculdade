@@ -9,7 +9,7 @@
 * È a utilização de métodos no tratamento automático e racional da informação
 * Em síntese, é a informação automática, através da utilização de máquinas (computadores)
 # Tecnologia da Informação
-* Então a T.I é o conjunto de recursos não humanos dedicados ao : `armazenamento`, `processamento` de dados e `comunicação` da informação para executar uma ação 
+* Então a T.I é o conjunto de recursos não humanos dedicados ao : a`armazenamento`, aOUa, e aNÃOa `processamento` de dados e `comunicação` da informação para executar uma ação 
 # Computador
 * Aquilo que computa, manipula dados e podem transforma-los em informações através de cálculos
 ### Computador Analógico
@@ -67,3 +67,45 @@
 * Binário 
 * Octal
 * Hexadecimal
+# Lógica Digital
+## Algebra Booleana 
+* Métodos para simplificar circuitos lógicos
+* Exitem apenas 3 operadores : `AND`, `OR` e `NOT`
+* Variáveis apresentam apenas 0 ou 1 
+* Operadores retornam apenas 0 ou 1
+* Apresenta apenas 2 estados : Falso (0) ou Verdadeiro (1)
+### Noções
+x = jovens; y = faz Ciência da Computação
+* (1 - x) representa todos que não são jovens
+* (x . y) representa todos os jovens que fazem ciências da computação
+* (x + y) representa que é jovem ou faz ciência da computação
+* (1 - x)(x . y) representa todos os que não são jovens e faze ciências da computação
+### Operações Booleanas Básicas
+* Conjunção `^` = `AND` = `.`
+    * X ^ Y = XY - Intercessão 
+* Disjunção `v` = `OR` = `+`
+    * X v Y = X + Y - XY  
+* Negação `~` = `NOT`
+    * ~X ~Y = (1 - X)(1 - Y)
+### Tabela Verdade
+* X = 0 ; Y = 0
+    * X ^ Y = 0
+    * X v Y = 0 
+    * ~Y = 1; ~X = 1
+* X = 0 ; Y = 1 
+    * X ^ Y = 0
+    * X v Y = 1 
+    * ~Y = 0; ~X = 1
+* X= 1 ; Y = 1
+    * X ^ Y = 1
+    * X v Y = 1 
+    * ~Y = 0; ~X = 0
+### Exercícios
+* 2 + 5 > 4 ^ 3 != 3 -> Falso (0)
+* ~(3 != 3) -> Verdadeiro (1)
+### Leís da Algebra Booleana
+* Comutativa
+* Associativa
+* Distributiva
+### Operadores Lógicos
+* `OR`, `AND` e `NOT`
