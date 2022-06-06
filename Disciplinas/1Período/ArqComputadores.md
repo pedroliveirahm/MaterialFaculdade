@@ -1,15 +1,14 @@
 # Dado vs Informação
 ### Dado
-* È a informação em seu estado bruto, ou seja, é a informação não tratada
+* È a informação em seu estado bruto, ou seja, é a informação não contextualizada
     * Ex : A coleta de opções de *votos* em uma pesquisa eleitoral. São considerados dados
 ### Informação
-* são os dados tratados, ou seja, é o resultado do precessamento dos dados que podem ser usados na tomada de decisão
+* São os dados contextualizados, ou seja, é o resultado do precessamento dos dados que podem ser usados na tomada de decisão
     * Ex : Os resultados da apuração dos votos coletado, indicando qual candidato tem a maior chance de ser escolhido
 # Informática
-* È a utilização de métodos no tratamento automático e racional da informação
-* Em síntese, é a informação automática, através da utilização de máquinas (computadores)
+* È a utilização de métodos no tratamento automático e racional da informação através da utilização de máquinas (computadores)
 # Tecnologia da Informação
-* Então a T.I é o conjunto de recursos não humanos dedicados ao : a`armazenamento`, aOUa, e aNÃOa `processamento` de dados e `comunicação` da informação para executar uma ação 
+* Então a T.I é o conjunto de recursos não humanos dedicados ao : `armazenamento` dados, `processamento` de dados e `comunicação` da informação para executar uma ação 
 # Computador
 * Aquilo que computa, manipula dados e podem transforma-los em informações através de cálculos
 ### Computador Analógico
